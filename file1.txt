@@ -1,2 +1,3 @@
 Welcome to Git Version Control System
 Git is a popular version control system
+There are three Git Reset Modes
