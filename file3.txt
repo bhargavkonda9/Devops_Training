@@ -1,1 +1,2 @@
 Git Tagging is labelling to mark some versions
+There are two options to merge the code between branches
